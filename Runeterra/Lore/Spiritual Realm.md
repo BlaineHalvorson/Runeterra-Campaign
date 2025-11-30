@@ -1,0 +1,3 @@
+The Spirit Realm, or Spirit World, is a parallel pocket of existence to the physical realm, both of which make up the realm of existence of [[Runeterra]]. It is the home and origin place of the [[Spirits]]. While most (if not all) [[Spirits|spirits]] seem to cross easily to the physical realm, mortals can only visit the spirit realm while in death or having powerful Spiritual Prowess.
+
+Very little is known about the spirit world, usually through tales and myths. What it is known is that a place where time and space function differently from the physical realm. The Spirit World seems to be separated by smaller regions or "realms".

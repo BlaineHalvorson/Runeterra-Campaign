@@ -1,0 +1,1 @@
+Shurima is the southern continent of [[Runeterra]]. The most predominant nation on this continent is [[Shurima (Nation)|Shurima]] from which it gained its name. This continent is connected to [[Valoran]] through a small isthmus of land where [[Oshra Va'Zaun]] is located. This continent was part of [[Valoran]] before the event that shattered the continent into two.

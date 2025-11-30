@@ -1,0 +1,3 @@
+As creatures that inhabit the ether and are divorced from the mortality that mortals suffer, spirits are similar to [[Celestials]] in a sense that they help maintain the balance of the natural world, intervening every now and then, whether the causes they support are maligned by mortals or revered by them.
+
+Spirits are deathless, returning to the ether when their physical vessels are destroyed and return again to continue their crusade. Often these spirits beings, or spirits empowered beings, also seem to have some sort of natural ability to alter their physicality. Spirits are seemingly not tied to a shape or to time in the same way physical beings are.

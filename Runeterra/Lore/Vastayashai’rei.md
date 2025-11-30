@@ -1,0 +1,1 @@
+The Vastayashai'rei are an ancient, presumably extinct, species that originated from enlightened mortals that took the power of the spirit realm into themselves.

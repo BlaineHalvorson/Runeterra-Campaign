@@ -1,0 +1,1 @@
+True Ice is a magical ice that could only be created by the Yeti and the magic given to them by Anivia. A very rare mineral, it is so cold that it can never be melted. Only those known as [[Iceborn]] are able to manipulate said mineral. A variant of True Ice that was corrupted by [[The Void]] exists in the form of Dark Ice.

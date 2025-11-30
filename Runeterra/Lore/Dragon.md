@@ -1,0 +1,3 @@
+The word Dragon is an umbrella term that refers to all the beings with reptilian morphology that come from the draconic lineage. Creatures that fall under this term can be split between [[Celestial Dragons]] or Terrestrial Dragons by way of their origins.
+
+The "sub-species" mentioned above are not genetically linked with each other, but share appearances. This similar appearance is because the Terrestrial Dragons once mimicked its Celestial counterpart. Both "sub-species" take inspiration of Earth dragons from mythology, which are equally varied in appearance and cultural perceptions.

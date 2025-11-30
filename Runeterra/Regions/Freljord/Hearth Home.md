@@ -1,0 +1,1 @@
+Hearth-Home is located in the Broken Mountain in eastern [[Freljord]]. It is the current home of the [[Ornn|Spirit of the Ram]].

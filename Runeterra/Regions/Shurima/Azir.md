@@ -1,0 +1,1 @@
+Azir was a mortal emperor of [[Shurima (Nation)|Shurima]] in a far distant age, a proud man who stood at the cusp of immortality. His hubris saw him betrayed and murdered at the moment of his greatest triumph.

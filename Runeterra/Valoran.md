@@ -1,0 +1,2 @@
+Valoran is the northern continent of [[Runeterra]]. Valoran is connected to the now [[Shurima (Continent)|Shuriman Continent]] through a small isthmus of land where [[Oshra Va'Zaun]] is located, which was once the center location of the continent before the event that shattered the continent into two. While the most well-known regions of the continent are [[Demacia]], [[Noxus]], and [[Freljord]] there are also hundreds of smaller states and nations that are not part of them.
+

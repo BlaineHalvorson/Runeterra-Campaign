@@ -1,0 +1,3 @@
+Ixaocan is a system of arcology that stretches across the jungles of [[Ixtal]]. [[The Cardinal Arcology]], sometimes also named after the system it anchors, stands as its heart. The system contains the only inhabited/non-ruined cities within the jungles of Ixtal.
+
+The arcologies are connected by intersecting lines of power, and each represents a specific form or discipline of elemental magic. The largest are home to tens of thousands of Ixtali practitioners. However, they are neither wholly habitats nor colleges of magic, but something in between.

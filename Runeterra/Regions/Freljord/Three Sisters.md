@@ -1,0 +1,1 @@
+The three [[Freljord|Freljordian]] sisters: [[Avarosa]], [[Serylda]], [[Lissandra]] who came to be the leaders of the three main tribes of [[Freljord]]: [[Avarosans]], [[Winter's Claw]], and the [[Frostguard]] respectively.

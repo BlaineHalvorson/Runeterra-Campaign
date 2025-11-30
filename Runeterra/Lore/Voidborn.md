@@ -1,0 +1,1 @@
+Voidborn are [[Runeterra|Runeterran]] beings constructed by the [[Watchers]] of [[The Void]]. Their reason for existing is to accept, consume, and learn all the information about [[Runeterra]] necessary enough to aid for the eventual return of the [[Watchers]].

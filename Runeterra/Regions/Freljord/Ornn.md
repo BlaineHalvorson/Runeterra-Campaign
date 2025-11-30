@@ -1,0 +1,9 @@
+Ornn is the [[Freljord|Freljordian]] [[Spirit Gods|demi-god]] of forging and craftsmanship. He works in the solitude of a massive smithy, hammered out from the lava caverns beneath the volcano [[Hearth Home]]. There he stokes bubbling cauldrons of molten rock to purify ores and fashion items of unsurpassed quality. When other deities—especially [[Volibear]] —walk the earth and meddle in mortal affairs, Ornn arises to put these impetuous beings back in their place, either with his trusty hammer or the fiery power of the mountains themselves.
+
+---
+
+Not much is known about Ornn's early life, only tales and stories told around campfires persist, and even then the validity of these stories is not known.
+
+One such story tells of when Ornn was young. Looking for a fight with a worthy opponent, Ornn challenged the land around him to a battle. Ornn fought the land, reshaping it with each blow. He headbutted mountains, beat valleys into shape, and shaped the earth into the landscape of what would become known as the [[Freljord]] today. When he was tired, Ornn thanked the land for the glorious match, and in return, the land opened itself to him, showing him its core. This gave Ornn the power of the primordial flame, and Ornn then dedicated himself to forging tools and weapons.
+
+Another story tells of how after his first home burned down, Ornn made a mountain out of ore, and inside was a forge that channeled the primordial flame from deep within the earth. However, the mountain was too hot even for Ornn, who slept through his first home burning down around him, and so he channeled a sea of cold water into the mountain. It took three days for the home to finally cool, and the ocean had dipped a few inches because of how much water was used. So much steam had risen from the cooling that the sky soon filled with dark clouds and burst with snow. It snowed for a hundred years, and that event is what causes the Freljord to have so much snow even today.

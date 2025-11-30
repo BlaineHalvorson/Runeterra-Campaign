@@ -1,0 +1,1 @@
+Celestial Dragons are are the types of dragons that reside in the [[Celestial Realm]] and are the originators of the [[Dragon]] species, existing since the very beginning of creation.

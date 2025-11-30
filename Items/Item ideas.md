@@ -1,0 +1,2 @@
+- Magic item that, on crit, lets a player roll excess damage over to any other enemy with the same or lower AC as the original target
+- 

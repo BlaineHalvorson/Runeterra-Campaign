@@ -1,0 +1,1 @@
+Those chosen and tasked with operating in the best interest of a [[Piltover]] [[Great Houses|Great House]], working with the local [[Merchant clans|mercantile clan]] master(s) to secure the family's continued success by any means necessary. 

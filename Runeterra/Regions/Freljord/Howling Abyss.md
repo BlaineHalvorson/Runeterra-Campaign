@@ -1,0 +1,1 @@
+The Howling Abyss bridge is located in the [[Freljord]] and serves as a gateway to the [[Frostguard]] Citadel.

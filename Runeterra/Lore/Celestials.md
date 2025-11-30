@@ -1,0 +1,3 @@
+The umbrella term Celestial refers to all the beings that originate from the celestial realm beyond [[Runeterra]].
+
+Among the first beings that came to be in the universe, they are alien in comparison to the physical and spiritual realms. These beings come in various forms. From the [[Aspects]] as representations of concepts and ideals, to the numerous beings such as [[Celestial Dragons]] that interact with the world of [[Runeterra]] with motives far beyond mortal understanding.

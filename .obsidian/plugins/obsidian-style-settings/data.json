@@ -1,0 +1,12 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@paper": true,
+  "ITS@@writing": false,
+  "ITS@@lig": true,
+  "ITS@@img-adj-center": true,
+  "ITS@@image-caption": true,
+  "ITS@@lp-img-float": true,
+  "ITS@@Inline-Title-Styling": "none",
+  "ITS@@canvas-cards": true,
+  "ITS@@canvas-milanote": false
+}

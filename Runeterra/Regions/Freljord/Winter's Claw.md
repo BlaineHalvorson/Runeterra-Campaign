@@ -1,0 +1,1 @@
+The Winter's Claw are one of the dominant tribes in the [[Freljord]].

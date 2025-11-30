@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "15ab178e775553cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "4820dca4a470d147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53595effcd997496",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d2a4997fe29a1b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "28fd462cbab21648",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c515eedf90058a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "237add8063d1c4f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "winter",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fed5a648d4f0909c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8e5c778b5eb40c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f31c2e4840945d8",
+        "type": "tabs",
+        "dimension": 68.55345911949685,
+        "children": [
+          {
+            "id": "d46f25b38c9265db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "824408736b7d285d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PCs/Sarah Character.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sarah Character"
+            }
+          },
+          {
+            "id": "f3ef1ac686e90437",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4746681a161064c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCs/Sarah Character.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sarah Character"
+            }
+          },
+          {
+            "id": "db191bd16729e013",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_e9da781b694a",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 772
+                  },
+                  "viewState": 0,
+                  "displaying": {
+                    "day": 26,
+                    "month": 2,
+                    "year": 772
+                  },
+                  "displayDayNumber": false,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_5b581bdb2a6a"
+                },
+                "id": "ID_0879a989ba8b",
+                "child": "ID_2969bbc8c939"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "7d32030711cb4800",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d7d063a70fc85ebb",
+        "type": "tabs",
+        "dimension": 31.446540880503143,
+        "children": [
+          {
+            "id": "790d8cab4d4a700b",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_e9da781b694a",
+                "id": "ID_2969bbc8c939",
+                "parent": "ID_0879a989ba8b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "53595effcd997496",
+  "lastOpenFiles": [
+    "Runeterra/Regions/Oshra Va'Zaun/Zaun/Zaun's Criminal Network.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Zaun/Zaun.md",
+    "Runeterra/Runeterra.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Progress Day.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Piltover.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Merchant clans.md",
+    "Runeterra/Valoran.md",
+    "Runeterra/Shurima (Continent).md",
+    "Runeterra/Regions/Targon/Targon.md",
+    "Runeterra/Regions/Targon/Mount Targon.md",
+    "Runeterra/Regions/Shurima/Shurima (Nation).md",
+    "Runeterra/Regions/Shurima/Azir.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Oshra Va'Zaun.md",
+    "Runeterra/Regions/Noxus/Noxian Calendar.md",
+    "Runeterra/Regions/Noxus/Noxus.md",
+    "Items/Item ideas.md",
+    "Runeterra/Regions/Ixtal/Ixtal.md",
+    "Runeterra/Regions/Ionia/Ionia.md",
+    "Runeterra/Regions/Freljord/Winter's Claw.md",
+    "Runeterra/Regions/Freljord/Volibear.md",
+    "Runeterra/Regions/Freljord/Three Sisters.md",
+    "Runeterra/Regions/Freljord/Serylda.md",
+    "Runeterra/Regions/Freljord/Sejuani.md",
+    "Runeterra/Regions/Freljord/Freljord.md",
+    "Runeterra/Regions/Freljord/Winter’s Claw.md",
+    "Runeterra/Regions/Freljord/True Ice.md",
+    "Runeterra/Lore/Races",
+    "Runeterra/Regions/Ionia",
+    "Runeterra/Lore",
+    "Images/Targon.jpg",
+    "Images/Ixtal.jpg",
+    "Runeterra/Regions/Ixtal",
+    "Images/Demacia.jpg",
+    "Images/Shurima.jpg",
+    "Images/Freljord.jpg",
+    "Images/Freljordian Cave.jpg",
+    "Images/Zaun Depths.jpg",
+    "Runeterra/Regions/Freljord/Untitled.base",
+    "Runeterra/Regions",
+    "Images/Noxus.jpg",
+    "Images/Zaun.jpg",
+    "Images/Piltover.jpg",
+    "Runeterra/Regions/Targon",
+    "Runeterra/Runeterra.canvas",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va'Zaun.canvas",
+    "Runeterra/Oshra Va'Zaun/Maps/Piltover and Zaun.canvas",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va’Zaun.canvas",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va’Zaun post canal.canvas",
+    "Runeterra/Regions/Oshra Va'Zaun/Zaun",
+    "Runeterra/Oshra Va'Zaun/Untitled",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover",
+    "Oshra Va’Zaun.canvas",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,1 @@
+Progress Day is celebrated in Piltover every year on the first day of [[Noxian Calendar|Ashfall]]. It is a day to celebrate the cities progress in all aspects as well as celebrating the founding of [[Oshra Va'Zaun]] as an independent nation from [[Shurima (Nation)|Shurima]].

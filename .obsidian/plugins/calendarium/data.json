@@ -1,0 +1,706 @@
+{
+  "autoParse": false,
+  "calendars": [
+    {
+      "name": "Noxian Calendar",
+      "description": "This is the calendar that most of Runeterra follows. It was established during the foundation of the Noxian Empire with it's foundation being year 0.",
+      "id": "ID_e9da781b694a",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Warfire",
+            "id": "ID_88b9c85829cb"
+          },
+          {
+            "type": "day",
+            "name": "Anvilday",
+            "id": "ID_0a9828c81ad9"
+          },
+          {
+            "type": "day",
+            "name": "Spearpoint",
+            "id": "ID_5848d92b49eb"
+          },
+          {
+            "type": "day",
+            "name": "Dominionday",
+            "id": "ID_c88b8b59fbea"
+          },
+          {
+            "type": "day",
+            "name": "Bloodrest",
+            "id": "ID_499aa99a8a08"
+          },
+          {
+            "type": "day",
+            "name": "Reckoning",
+            "id": "ID_49fbdb99a809"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Bloodtide",
+            "length": 30,
+            "id": "ID_1b09dadab9db",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Warcrest",
+            "length": 30,
+            "id": "ID_9b88c8f9ea8a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Marchsteel",
+            "length": 30,
+            "id": "ID_6bdb789938c8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ashenrise",
+            "length": 30,
+            "id": "ID_ca1bcae89a7b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Bannerfall",
+            "length": 30,
+            "id": "ID_bb0b7ac8c88a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ironharvest",
+            "length": 30,
+            "id": "ID_399b6b8bca9b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Grimwinter",
+            "length": 30,
+            "id": "ID_199bebbb89b8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Redcrest",
+            "length": 30,
+            "id": "ID_faeb085acbfa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Stonewake",
+            "length": 30,
+            "id": "ID_69b8aaca196a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dreadwane",
+            "length": 30,
+            "id": "ID_09cbfa0b687b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": [
+          {
+            "id": "ID_49591b1bfa69",
+            "type": "era",
+            "name": "Creation of the Universe",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": true,
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 772,
+              "month": null,
+              "day": 26
+            }
+          },
+          {
+            "id": "ID_4aaaaa4a9a8b",
+            "type": "era",
+            "name": "Formation of Runeterra",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -99999,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -9000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_ea1a9a0a980a",
+            "type": "era",
+            "name": "Titan War",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -9000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -8000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_98e878a99b5b",
+            "type": "era",
+            "name": "Founding of the Freljord",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -9000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -8000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_7b4a9acae9da",
+            "type": "era",
+            "name": "War of the Three Sisters",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -8000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -8000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_b8895a6a5b5a",
+            "type": "era",
+            "name": "Westward Migration",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -6000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -5000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_c82a6bf9c958",
+            "type": "era",
+            "name": "Golden Age of Shurima",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -5000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -2500,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_fa5acb889998",
+            "type": "era",
+            "name": "Void War",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -2500,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -2000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_d8e97b180bfb",
+            "type": "era",
+            "name": "Fall of Shurima",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -2500,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -2000,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_e89b994a483b",
+            "type": "era",
+            "name": "Great Darkin War",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -2000,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -550,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_097b38c8e9a8",
+            "type": "era",
+            "name": "Reign of the Iron Revenant",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -400,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -100,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_ab8829a94b88",
+            "type": "era",
+            "name": "Ruination of Helia",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -25,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -25,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_094b8a28e8db",
+            "type": "era",
+            "name": "Rune Wars",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": -25,
+              "month": 0,
+              "day": 1
+            },
+            "end": {
+              "year": -3,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "id": "ID_6abab8098bb8",
+            "type": "era",
+            "name": "Noxus Endures",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 0
+            }
+          },
+          {
+            "id": "ID_d948ebbada7b",
+            "type": "era",
+            "name": "The Demacian Crown",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 12,
+              "month": 5,
+              "year": 292
+            },
+            "end": {
+              "day": 12,
+              "month": 5,
+              "year": 292
+            }
+          },
+          {
+            "id": "ID_383b5adbeb69",
+            "type": "era",
+            "name": "Noxus becomes and Imperial Power",
+            "description": "",
+            "format": "{{era_name}} {{year}}",
+            "endsYear": false,
+            "isEvent": false,
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "day": 1,
+              "month": 0,
+              "year": 349
+            },
+            "end": {
+              "day": 1,
+              "month": 0,
+              "year": 349
+            }
+          }
+        ],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "ID_6b2a98d8d9bb",
+            "name": "War Season",
+            "type": "Periodic",
+            "color": "#ff3838",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Summer"
+          },
+          {
+            "id": "ID_1879da69485a",
+            "name": "Siege Season",
+            "type": "Periodic",
+            "color": "#ffdd00",
+            "duration": 90,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Autumn"
+          },
+          {
+            "id": "ID_fb996a3a0ac8",
+            "name": "Grim Season",
+            "type": "Periodic",
+            "color": "#00aab3",
+            "duration": 60,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Winter"
+          },
+          {
+            "id": "ID_fbfa69dabbfb",
+            "name": "Tribunal Season",
+            "type": "Periodic",
+            "color": "#2d1c77",
+            "duration": 60,
+            "peak": 0,
+            "weatherOffset": 56,
+            "weatherPeak": 5,
+            "kind": "Spring"
+          }
+        ],
+        "offset": 0,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": true,
+          "seed": -397693046,
+          "tempUnits": "Imperial",
+          "windUnits": "Imperial",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": [
+          {
+            "name": "Shurima",
+            "id": "ID_e878289afaaa",
+            "seasons": {
+              "ID_6b2a98d8d9bb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_1879da69485a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_fb996a3a0ac8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              },
+              "ID_fbfa69dabbfb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Oshra Va'Zaun",
+            "id": "ID_5b581bdb2a6a",
+            "seasons": {
+              "ID_6b2a98d8d9bb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_1879da69485a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_fb996a3a0ac8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_fbfa69dabbfb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Noxus",
+            "id": "ID_4ae8b94b5939",
+            "seasons": {
+              "ID_6b2a98d8d9bb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_1879da69485a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_fb996a3a0ac8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_fbfa69dabbfb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Demacia",
+            "id": "ID_fbb88b6acb9a",
+            "seasons": {
+              "ID_6b2a98d8d9bb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Summer"
+              },
+              "ID_1879da69485a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_fb996a3a0ac8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_fbfa69dabbfb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Spring"
+              }
+            }
+          },
+          {
+            "name": "Freljord",
+            "id": "ID_cac9ea693a88",
+            "seasons": {
+              "ID_6b2a98d8d9bb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              },
+              "ID_1879da69485a": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_fb996a3a0ac8": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Winter"
+              },
+              "ID_fbfa69dabbfb": {
+                "weatherOffset": 56,
+                "weatherPeak": 5,
+                "kind": "Autumn"
+              }
+            }
+          }
+        ],
+        "defaultLocation": "ID_5b581bdb2a6a"
+      },
+      "current": {
+        "day": 26,
+        "month": 2,
+        "year": 772
+      },
+      "events": [],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_e9da781b694a",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 2,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": null,
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}

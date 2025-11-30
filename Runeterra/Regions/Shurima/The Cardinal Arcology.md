@@ -1,0 +1,3 @@
+The Cardinal Arcology began as an immense, self-contained research stronghold built during the height of ancient [[Shurima (Nation)|Shuriman]] power, designed to unify scholars, artificers, and magi under one roof to pursue breakthroughs too dangerous for the capital. Its sealed interior housed forbidden knowledge—proto-hextech, geomancy studies, and bio-arcane experiments that even the empire preferred to keep out of sight. After the fall of [[Shurima (Nation)|Shurima]] and the cataclysm that buried much of the empire, the arcology became a forgotten tomb of preserved records, derelict constructs, and dormant hazards. 
+
+Today, it exists only as legend to desert travelers: a lost, humming fortress where the lights sometimes still flickered beneath the dunes.

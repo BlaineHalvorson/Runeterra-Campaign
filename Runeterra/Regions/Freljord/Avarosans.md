@@ -1,0 +1,1 @@
+The original Averosan was one of the oldest tribe in [[Freljord]], named after [[Avarosa]]. It is led by Grena. 

@@ -1,0 +1,1 @@
+Darkin are corrupted [[God-Warriors]] who were traumatized by the horrors of the [[Void War]] as well as self infliction by the use of blood magic. Currently, all known Darkin have been imprisoned in weapons, unable to ever regain their original Ascended forms.

@@ -1,0 +1,390 @@
+{
+  "mapMarkers": [
+    {
+      "id": "OshraVaZaunMap",
+      "lastAccessed": 1764099229389,
+      "markers": [
+        {
+          "id": "ID_682b39cba9aa",
+          "type": "default",
+          "loc": [
+            633.3798507043939,
+            733.3746932532821
+          ],
+          "link": "Benzo's Shop",
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_292ac9993a3a",
+          "type": "default",
+          "loc": [
+            767.98828125,
+            765.59765625
+          ],
+          "link": "The Last Drop",
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            2.3636003414545677,
+            -3.1941465861315157
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8389a9be949",
+          "type": "default",
+          "loc": [
+            517.9778143060581,
+            772.1606050557099
+          ],
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28eb9bcb58a9",
+          "type": "default",
+          "loc": [
+            820.5,
+            756
+          ],
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Vi's Apt",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_288b7b0b2aba",
+          "type": "default",
+          "loc": [
+            982.886712256893,
+            386.40623455980807
+          ],
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sevika's HQ",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4bd908783beb",
+          "type": "default",
+          "loc": [
+            1127.222121830733,
+            731.1484117468901
+          ],
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Four Sisters",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb488a592bab",
+          "type": "default",
+          "loc": [
+            1160.0811806029615,
+            667.5088014401008
+          ],
+          "layer": "%5B%5BOshra%20Va'Zaun.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Brewery",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9daeb888808",
+          "type": "default",
+          "loc": [
+            895.169563623529,
+            976.9729793720477
+          ],
+          "link": "Oshra Va'Zaun",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa1afb4a798b",
+          "type": "default",
+          "loc": [
+            658.7970249250135,
+            876.1494960639565
+          ],
+          "link": "Shurima (Nation)",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "RuneterraMap",
+      "lastAccessed": 1764356520274,
+      "markers": [
+        {
+          "id": "ID_ab49592808c9",
+          "type": "default",
+          "loc": [
+            916,
+            975.125
+          ],
+          "link": "Oshra Va'Zaun",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.904541015625,
+            -1.7890625
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb196869995b",
+          "type": "default",
+          "loc": [
+            652.375,
+            880.125
+          ],
+          "link": "Shurima (Nation)",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            1.718994140625,
+            -1.274169921875
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cac8ca186b78",
+          "type": "default",
+          "loc": [
+            600.658203125,
+            641
+          ],
+          "link": "Targon",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39a8cbc80ada",
+          "type": "default",
+          "loc": [
+            1139.19970703125,
+            825.7177734375
+          ],
+          "link": "Noxus",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98caf8ca8969",
+          "type": "default",
+          "loc": [
+            1063.375,
+            454.75
+          ],
+          "link": "Demacia",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.88818359375,
+            -2.076904296875
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6afa993ad8eb",
+          "type": "default",
+          "loc": [
+            1438.55859375,
+            645
+          ],
+          "link": "Freljord",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6a98680a895a",
+          "type": "default",
+          "loc": [
+            662.14404296875,
+            1087.001953125
+          ],
+          "link": "Ixtal",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Runeterra/Runeterra.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": -1.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Runeterra.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Runeterra.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 3,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.09328358208955223,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "OshraVaZaunMap",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        2048,
+        1642
+      ]
+    ],
+    "width": "100%",
+    "lat": 1024,
+    "long": 821,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

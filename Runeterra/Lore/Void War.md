@@ -1,0 +1,1 @@
+The Void War was an ancient war in which the [[Ascended]] of both [[Shurima (Nation)|Shurima]] and [[Ixtal]] fought against [[Icathia]] and [[The Void]] Rift that came to be there after its fall. This war was also responsible for the [[God-Warriors]] fall to become [[Darkin]].

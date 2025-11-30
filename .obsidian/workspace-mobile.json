@@ -1,0 +1,630 @@
+{
+  "main": {
+    "id": "4ebda0ae6493eea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a73d9f8cb19768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "807123add4d4c317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Valis Family.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Valis Family"
+            }
+          },
+          {
+            "id": "6d9e63241b73c991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/House Kiramman.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House Kiramman"
+            }
+          },
+          {
+            "id": "bba9f132cc477e01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Holmgren Family.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Holmgren Family"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02c2f3629f834098",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b06351f55b33917d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0b1e61d0b845f89d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Dark",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "10a31edfb064c457",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "156e5b3245d4b2c4",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a56f6564eeb6c242",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dcae12983b5a4261",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3cffcafad4e33b6e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "82ff79a0da524861",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Plot/Soren Valhri.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e5122e2e8660b093",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "4e43751852c6273b",
+        "type": "leaf",
+        "state": {
+          "type": "fantasy-statblocks-creature-pane",
+          "state": {},
+          "icon": "skull",
+          "title": "Combatant"
+        }
+      },
+      {
+        "id": "4ceb531fb932580c",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewing": {
+                "day": 17,
+                "month": 8,
+                "year": 769
+              },
+              "viewState": 0,
+              "displaying": {
+                "day": 26,
+                "month": 0,
+                "year": 769
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_4b99c9a849ca",
+            "child": "ID_397b1a3bf869"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "bb8a2cf0f7c30a67",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "id": "ID_397b1a3bf869",
+            "parent": "ID_4b99c9a849ca"
+          },
+          "icon": "CALENDARIUM_AGENDA",
+          "title": "Agenda"
+        }
+      },
+      {
+        "id": "82dca8a4dd290f40",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewing": {
+                "day": 15,
+                "month": 4,
+                "year": 772
+              },
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_dbab380a5a18",
+            "child": "ID_eb09e99b28e8"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "ca55668e0f042379",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM_AGENDA",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "id": "ID_eb09e99b28e8",
+            "parent": "ID_dbab380a5a18"
+          },
+          "icon": "CALENDARIUM_AGENDA",
+          "title": "Agenda"
+        }
+      },
+      {
+        "id": "a8114fda51309544",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_0a2baae9ebbb"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "2ec8b9b6dd45833d",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_d9cac9a9ba5b"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "2cb2ce5183b9866b",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_bb1acb4b4a0a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "58b021e9a0f194d9",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_bacbe8c92a5a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "e80b6436b0f3e53a",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_fabaea8bd9ea"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "3303c57b080d1971",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_69f819a8d83a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "3eb2f11c9b0a36ec",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_aa7a5b3adbd9"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "d1ce0191e40c9f60",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_194a3bbb0b88"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "fdb680beb6d2d8cd",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_d90b1a6a981b"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      },
+      {
+        "id": "fe2cce35ac86cbb5",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_e9da781b694a",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 26,
+                "month": 2,
+                "year": 772
+              },
+              "displayDayNumber": false,
+              "displaySeasonColors": true,
+              "interpolateColors": true,
+              "displayMoons": true,
+              "displayWeather": true,
+              "location": "ID_5b581bdb2a6a"
+            },
+            "id": "ID_0a3a4b88e91a"
+          },
+          "icon": "CALENDARIUM",
+          "title": "Calendarium"
+        }
+      }
+    ],
+    "currentTab": 18
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "807123add4d4c317",
+  "lastOpenFiles": [
+    "NPCs/Holmgren Family.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Great Houses.md",
+    "NPCs/Valis Family.md",
+    "NPCs/Korran Valis.md",
+    "NPCs/House Kiramman.md",
+    "NPCs/Brightstone Family.md",
+    "NPCs/Soren Valhri.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/House Talis.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Merchant clans.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Piltover.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Principal Intelligencer.md",
+    "NPCs/Fake construction company leader.md",
+    "Runeterra/Lore/Sandstone & Steel.md",
+    "Plot/Main Plot Points.md",
+    "NPCs/Azemir Zehraht.md",
+    "Items/World Rune.md",
+    "Items/Item ideas.md",
+    "Runeterra/Regions/Shurima/Baccai.md",
+    "Runeterra/Regions/Shurima/Shurima (Nation).md",
+    "Runeterra/Regions/Blessed Isles/Blessed Isles.md",
+    "Runeterra/Regions/Blessed Isles",
+    "Runeterra/Regions/Shurima/The Cardinal Arcology.md",
+    "Runeterra/Lore/Voidborn.md",
+    "Runeterra/Regions/Ixtal/Ixaocan.md",
+    "Azemir Zehrat.md",
+    "Runeterra/Regions/Shurima/Xerath.md",
+    "Runeterra/Valoran.md",
+    "Images/IMG_4249.jpeg",
+    "Images/IMG_4248.jpeg",
+    "Plot/Untitled.base",
+    "Runeterra/Oshra Va'Zaun/Zaun",
+    "Runeterra/Oshra Va'Zaun/Piltover",
+    "Runeterra/Oshra Va'Zaun/Maps/Runeterra.canvas",
+    "Images/Oshra Va’Zaun.jpeg",
+    "IMG_4187.png",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va’Zaun.canvas",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va’Zaun post canal.canvas",
+    "Images/Oshra Va'Zaun post canal.jpeg",
+    "IMG_4172.jpeg",
+    "Images",
+    "Runeterra/Oshra Va'Zaun/Maps/Oshra Va'Zaun.jpeg",
+    "Runeterra/Items",
+    "PCs",
+    "NPCs",
+    "Plot",
+    "Session Notes"
+  ]
+}

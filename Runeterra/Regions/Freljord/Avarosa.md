@@ -1,0 +1,1 @@
+Avarosa was one of the three sisters who ruled over the [[Freljord]] in ancient times, including her sister [[Lissandra]] and [[Serylda]].  

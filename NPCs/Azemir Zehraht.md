@@ -1,0 +1,1 @@
+This character is [[Lucien Gravewine]]’s younger brother.

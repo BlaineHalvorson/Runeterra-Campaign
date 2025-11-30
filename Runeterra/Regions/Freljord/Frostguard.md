@@ -1,0 +1,1 @@
+The Frostguard are one of the dominant tribes in the [[Freljord]].

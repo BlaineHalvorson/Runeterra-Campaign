@@ -1,0 +1,1 @@
+Dark Ice is [[True Ice]] that has been corrupted or otherwise tainted by [[The Void]].

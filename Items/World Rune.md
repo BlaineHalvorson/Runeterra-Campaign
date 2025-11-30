@@ -1,0 +1,1 @@
+The World Runes are powerful runes that were used by a group of unknown [[Celestials]] to shape [[Runeterra]]. Mortals fought brutal wars over these powerful artifacts that would later be known as the [[Rune Wars]].

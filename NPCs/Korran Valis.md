@@ -1,0 +1,1 @@
+The second son of the [[Valis Family]] in [[Piltover]], neighbor and something of a rival for [[Alina Brightsone]]
