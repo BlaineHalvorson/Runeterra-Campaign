@@ -162,7 +162,7 @@
     },
     {
       "id": "RuneterraMap",
-      "lastAccessed": 1764356520274,
+      "lastAccessed": 1764811248556,
       "markers": [
         {
           "id": "ID_ab49592808c9",
@@ -283,6 +283,40 @@
             1087.001953125
           ],
           "link": "Ixtal",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b9b681acbdb",
+          "type": "default",
+          "loc": [
+            1278.6826171875,
+            1202.7529296875
+          ],
+          "link": "Ionia",
+          "layer": "%5B%5BRuneterra.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5979180b587b",
+          "type": "default",
+          "loc": [
+            633.0087890625,
+            1424.0654296875
+          ],
+          "link": "Shadow Isles",
           "layer": "%5B%5BRuneterra.png%5D%5D",
           "mutable": true,
           "command": false,

@@ -1,1 +1,1 @@
-This character is [[Lucien Gravewine]]’s younger brother.
+This character is [[Lucien Gravewine]]’s younger brother. He is attempting to resurrect a [[Darkin]] and needed to retrieve an artifact one of his family members was buried with in order to do this. He robs his families grave and frames it on his [[Lucien Gravewine|brother]]. 

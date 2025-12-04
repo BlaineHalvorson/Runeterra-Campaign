@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4820dca4a470d147",
+        "id": "35f407b39008b45a",
         "type": "tabs",
         "children": [
           {
-            "id": "53595effcd997496",
+            "id": "accd0d1c6f125b6e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -37,7 +37,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "winter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -233,34 +233,38 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "53595effcd997496",
+  "active": "accd0d1c6f125b6e",
   "lastOpenFiles": [
+    "Runeterra/Runeterra.md",
+    "Runeterra/Regions/Freljord/Three Sisters.md",
+    "Images/Shadow_Isles_concept_4.webp",
+    "Runeterra/Regions/Shadow Isles/Shadow Isles.md",
+    "Images/Shadow_Isles_Ruins.webp",
+    "Runeterra/Regions/Demacia/Demacia.md",
+    "Runeterra/Regions/Ionia/Ionia.md",
+    "Images/Ionia_The_First_Lands.webp",
+    "Images/Ionia_The_Lesson_01.webp",
+    "Runeterra/Regions/Noxus/Noxus.md",
+    "Runeterra/Regions/Ixtal/Ixtal.md",
+    "Runeterra/Regions/Targon/Targon.md",
+    "Runeterra/Regions/Targon/Mount Targon.md",
+    "Runeterra/Regions/Ixtal/Ixaocan.md",
+    "Runeterra/Regions/Ixtal/The Cardinal Arcology.md",
+    "index.md",
     "Runeterra/Regions/Oshra Va'Zaun/Zaun/Zaun's Criminal Network.md",
     "Runeterra/Regions/Oshra Va'Zaun/Zaun/Zaun.md",
-    "Runeterra/Runeterra.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/Progress Day.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/Piltover.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/Merchant clans.md",
     "Runeterra/Valoran.md",
     "Runeterra/Shurima (Continent).md",
-    "Runeterra/Regions/Targon/Targon.md",
-    "Runeterra/Regions/Targon/Mount Targon.md",
     "Runeterra/Regions/Shurima/Shurima (Nation).md",
     "Runeterra/Regions/Shurima/Azir.md",
     "Runeterra/Regions/Oshra Va'Zaun/Oshra Va'Zaun.md",
     "Runeterra/Regions/Noxus/Noxian Calendar.md",
-    "Runeterra/Regions/Noxus/Noxus.md",
     "Items/Item ideas.md",
-    "Runeterra/Regions/Ixtal/Ixtal.md",
-    "Runeterra/Regions/Ionia/Ionia.md",
     "Runeterra/Regions/Freljord/Winter's Claw.md",
     "Runeterra/Regions/Freljord/Volibear.md",
-    "Runeterra/Regions/Freljord/Three Sisters.md",
-    "Runeterra/Regions/Freljord/Serylda.md",
-    "Runeterra/Regions/Freljord/Sejuani.md",
-    "Runeterra/Regions/Freljord/Freljord.md",
-    "Runeterra/Regions/Freljord/Winter’s Claw.md",
-    "Runeterra/Regions/Freljord/True Ice.md",
     "Runeterra/Lore/Races",
     "Runeterra/Regions/Ionia",
     "Runeterra/Lore",
@@ -271,12 +275,8 @@
     "Images/Shurima.jpg",
     "Images/Freljord.jpg",
     "Images/Freljordian Cave.jpg",
-    "Images/Zaun Depths.jpg",
     "Runeterra/Regions/Freljord/Untitled.base",
     "Runeterra/Regions",
-    "Images/Noxus.jpg",
-    "Images/Zaun.jpg",
-    "Images/Piltover.jpg",
     "Runeterra/Regions/Targon",
     "Runeterra/Runeterra.canvas",
     "Runeterra/Oshra Va'Zaun/Maps/Oshra Va'Zaun.canvas",

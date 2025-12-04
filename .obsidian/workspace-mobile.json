@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Valis Family.md",
+                "file": "PCs/Sean Character.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Valis Family"
+              "title": "Sean Character"
             }
           },
           {
@@ -580,21 +580,26 @@
   },
   "active": "807123add4d4c317",
   "lastOpenFiles": [
-    "NPCs/Holmgren Family.md",
-    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Great Houses.md",
+    "PCs/Lucien Gravewine.md",
+    "PCs/Chonnor Character.md",
+    "NPCs/Azemir Zehraht.md",
+    "Runeterra/Runeterra.md",
     "NPCs/Valis Family.md",
     "NPCs/Korran Valis.md",
-    "NPCs/House Kiramman.md",
+    "NPCs/Holmgren Family.md",
     "NPCs/Brightstone Family.md",
+    "PCs/Alina Brightsone.md",
+    "PCs/Griig.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Merchant clans.md",
+    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Great Houses.md",
+    "NPCs/House Kiramman.md",
     "NPCs/Soren Valhri.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/House Talis.md",
-    "Runeterra/Regions/Oshra Va'Zaun/Piltover/Merchant clans.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/Piltover.md",
     "Runeterra/Regions/Oshra Va'Zaun/Piltover/Principal Intelligencer.md",
     "NPCs/Fake construction company leader.md",
     "Runeterra/Lore/Sandstone & Steel.md",
     "Plot/Main Plot Points.md",
-    "NPCs/Azemir Zehraht.md",
     "Items/World Rune.md",
     "Items/Item ideas.md",
     "Runeterra/Regions/Shurima/Baccai.md",
@@ -602,11 +607,6 @@
     "Runeterra/Regions/Blessed Isles/Blessed Isles.md",
     "Runeterra/Regions/Blessed Isles",
     "Runeterra/Regions/Shurima/The Cardinal Arcology.md",
-    "Runeterra/Lore/Voidborn.md",
-    "Runeterra/Regions/Ixtal/Ixaocan.md",
-    "Azemir Zehrat.md",
-    "Runeterra/Regions/Shurima/Xerath.md",
-    "Runeterra/Valoran.md",
     "Images/IMG_4249.jpeg",
     "Images/IMG_4248.jpeg",
     "Plot/Untitled.base",

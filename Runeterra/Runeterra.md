@@ -1,35 +1,49 @@
 # Timeline
 
-	Creation of the Universe (∞ BN)
+∞ BN:
+Creation of the Universe
 	
-	Formation of Runeterra (∞ BN - 9000 BN)
-	
-	
-	
-	Titan War and Founding of Freljord(9000 BN - 8000 BN)
-	
-	War of the Three Sisters (8000 BN)
+∞ BN - 9000 BN:
+Formation of [[Runeterra]]
 	
 	
-	Westward Migration (6000 BN - 5000 BN)
 	
-	Golden Age of Shurima (5000 BN - 2500 BN)
+9000 BN - 8000 BN:
+Titan War and Founding of [[Freljord]]
 	
-	Void War and the Fall of Shurima (2500 BN - 2000 BN)
+8000 BN:
+War of the [[Three Sisters]] 
 	
-	Great Darkin War (2000 BN - 550 BN)
 	
-	Reign of the Iron Revenant (400 BN - 100 BN)
+6000 BN - 5000 BN:
+Westward Migration 
 	
-	Ruination of Helia (25 BN)
+ 5000 BN - 2500 BN:
+ Golden Age of [[Shurima (Nation)|Shurima]]
 	
-	Rune Wars (25 BN - 3 BN)
+2500 BN - 2000 BN:
+[[Void War]] and the Fall of [[Shurima (Nation)|Shurima]]
 	
-	Noxus Endures (0 AN)
+2000 BN - 550 BN:
+Great [[Darkin]] War
 	
-	The Demacian Crown (292 AN)
+400 BN - 100 BN:
+Reign of the Iron Revenant
 	
-	Noxus becomes and Imperial Power (349)
+25 BN:
+[[Shadow Isles|Ruination of Helia]]
+	
+25 BN - 3 BN:
+[[Rune Wars]]
+	
+0 AN: 
+[[Noxus]] Endures
+	
+292 AN:
+The [[Demacia|Demacian]] Crown 
+	
+349:
+[[Noxus]] becomes and Imperial Power
 
 https://leagueoflegends.fandom.com/wiki/Resurgence_of_Civilizations
 -----

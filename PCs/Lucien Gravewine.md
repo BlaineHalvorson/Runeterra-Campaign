@@ -1,1 +1,1 @@
-His real name is Lucien Zehraht.
+His real name is Lucien Zehraht. Framed for grave robbing his family and they used that as a cover up for why he was banished instead of necromancy, in reality his [[Azemir Zehraht|brother]] is the one who robbed the families grave after learning he practiced necromancy.

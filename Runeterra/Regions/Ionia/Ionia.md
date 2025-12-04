@@ -1,1 +1,8 @@
 Ionia, in original [[Vastaya|Vastayan]] nomenclature: "The First Lands", is a land of unspoiled beauty and natural magic. Its inhabitants, living in scattered settlements across this massive archipelago, are a spiritual people who seek to live in harmony and balance with the world. There are many orders and sects across Ionia, each following their own (often conflicting) paths and ideals. Self-sufficient and isolationist, Ionia has remained largely neutral in the wars that have ravaged [[Valoran]] over the centuries.
+
+---
+
+# Visual
+![[Ionia_The_First_Lands.webp]]
+
+![[Ionia_The_Lesson_01.webp]]

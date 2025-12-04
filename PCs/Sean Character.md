@@ -1,0 +1,1 @@
+Previously a member in another adventure party, was backstabbed and betrayed by them and left for dead. He was saved by [[Chonnor Character]] and is now untrusting in general.
